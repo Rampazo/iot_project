@@ -25,7 +25,7 @@ unsigned int TLESS[68] = {9000,4550,600,550,600,550,600,550,600,550,600,550,600,
 ////////////////////
 
 const char* SSID = "Shark";
-const char* PASSWORD = "a1b2c3d4e5";
+const char* PASSWORD = "*********";
 WiFiClient wifiClient;                        
 
 
